@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "370323731446",
+    "firebase_url": "https://auto-contact-2cd60-default-rtdb.firebaseio.com",
+    "project_id": "auto-contact-2cd60",
+    "storage_bucket": "auto-contact-2cd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370323731446:android:7ae73bd1f3a76258d4cdd7",
+        "android_client_info": {
+          "package_name": "com.kingaspx.contactsplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370323731446-kfubrn0objrnfttrm9ppaj8f5aae0cs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECJPRk0ssdEJE-oUMC-E4YAaQgLE58bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370323731446-kfubrn0objrnfttrm9ppaj8f5aae0cs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370323731446:android:ec272e57f97e58dad4cdd7",
+        "android_client_info": {
+          "package_name": "com.kingaspx.contatoswhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370323731446-kfubrn0objrnfttrm9ppaj8f5aae0cs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECJPRk0ssdEJE-oUMC-E4YAaQgLE58bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370323731446-kfubrn0objrnfttrm9ppaj8f5aae0cs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
